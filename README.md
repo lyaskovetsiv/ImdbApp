@@ -15,7 +15,6 @@
 - Created network layer via URLSession to work with API (GET requests)
 - Used SDWebImage for asynchronous loading and caching of images
 - Used AVKit for background start screen and Youtube IOSPlayer to download trailers
-- Used SwiftPackageManager to connect frameworks
 
 
 **Main Screens**:
